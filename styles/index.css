@@ -1,0 +1,11 @@
+/* .card {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    align-items: flex-end
+}
+
+.card:nth-child(even) {
+    direction: rtl;
+} */
